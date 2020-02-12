@@ -75,7 +75,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginRight="8dp"
-                            android:text="Low:"
+                            android:text="@string/price_low"
                             android:textColor="@color/red" />
 
                         <TextView
@@ -95,7 +95,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginRight="8dp"
-                            android:text="High:"
+                            android:text="@string/price_high"
                             android:textColor="@color/green" />
 
                         <TextView
@@ -117,7 +117,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="8dp"
-                        android:text="Open:"
+                        android:text="@string/price_open"
                         android:textColor="@color/blue" />
 
                     <TextView
